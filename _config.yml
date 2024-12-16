@@ -12,7 +12,7 @@ author: Daniel Grzenda
 description: A work in progress blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/me.jpg
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ avatar: /images/reverie.png
 footer-links:
   dribbble:
   email: dcgrzenda@gmail.com
-  facebook: test
+  facebook:
   flickr:
   github: danielgrzenda
   instagram:
