@@ -8,7 +8,7 @@ Hello! I’m Daniel Grzenda, a third-year PhD candidate in the [Computer Science
 at the [University of Chicago](https://www.uchicago.edu/en). I’m a member of [Globus Labs](https://labs.globus.org),
 working under the guidance of [Ian Foster](https://cs.uchicago.edu/people/ian-foster/) and 
 [Kyle Chard](https://cs.uchicago.edu/people/kyle-chard/). My research interests span 
-distributed computing, high-performance data management, and advanced AI techniques—particularly
+distributed computing, high-performance MLOps, and advanced AI techniques—particularly
 graph neural networks—and I’m passionate about making large-scale systems more accessible, efficient, and intelligent.
 
 
